@@ -6,6 +6,10 @@ function App() {
     <div className="App">
       <Header />
       <ListarTarefa />
+      <CardInfo 
+        title="Card Descomplica" 
+        description="Descomplica faculdade digital"
+      />
     </div>
   );
 }
